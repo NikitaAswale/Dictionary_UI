@@ -40,7 +40,7 @@ fun Dictionary_UI(){
         }
     }
 
-    Spacer(modifier = Modifier.height(16.dp))
+    Spacer(modifier = Modifier.height(24.dp))
 
         Column (
             horizontalAlignment = Alignment.CenterHorizontally
